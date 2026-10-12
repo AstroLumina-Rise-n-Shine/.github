@@ -84,20 +84,6 @@
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-### 📚 Docs & Tooling
-
-<p align="center">
-  <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Tools-n-Docs">
-    <img src="https://img.shields.io/badge/Tools_n_Docs-FF4F80?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Tools and Docs"/>
-  </a>
-</p>
-
-| Repository | What lives here |
-|---|---|
-| [AstroLumina-Tools-n-Docs](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Tools-n-Docs) | Shared notes, runbooks & helper tooling for the whole platform |
-
-<hr style="border: 2px solid #30363d; border-radius: 5px;">
-
 ### 🛠️ Stack at a glance
 
 <p align="center">
