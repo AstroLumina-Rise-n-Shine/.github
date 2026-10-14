@@ -72,6 +72,9 @@
   <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Terraform">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   </a>
+  <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Terraform-Library">
+    <img src="https://img.shields.io/badge/Terraform_Library-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Library"/>
+  </a>
   <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Ansible">
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   </a>
@@ -80,6 +83,7 @@
 | Repository | What lives here |
 |---|---|
 | [AstroLumina-Terraform](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Terraform) | KVM/libvirt VMs for the RKE2 cluster (control-plane + workers), cloud-init with Tailscale onboarding, CI with fmt/validate/tflint/Trivy |
+| [AstroLumina-Terraform-Library](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Terraform-Library) | Reusable Terraform modules (KVM VMs, EKS clusters), setup docs for Terraform + Floci + AWS CLI, versioned releases |
 | [AstroLumina-Ansible](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Ansible) | RKE2 cluster configuration: prerequisites, server & agent roles, playbooks, CI with lint/syntax-check/shellcheck |
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
