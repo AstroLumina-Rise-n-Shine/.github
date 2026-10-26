@@ -23,16 +23,16 @@
     <img src="https://img.shields.io/badge/Booking_API-017CFF?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Booking API"/>
   </a>
   <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-PaymentAPI">
-    <img src="https://img.shields.io/badge/Payment_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment API"/>
+    <img src="https://img.shields.io/badge/Payment_API-635BFF?style=for-the-badge&logo=revolut&logoColor=white" alt="Payment API"/>
   </a>
 </p>
 
 | Repository | What lives here |
 |---|---|
-| [AstroLumina-Frontend](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Frontend) | React + Vite + Tailwind booking experience: natal, predictive & synastry charts, Moon & Astral calculators, events with seats, Stripe checkout |
+| [AstroLumina-Frontend](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Frontend) | React + Vite + Tailwind booking experience: natal, predictive & synastry charts, Moon & Astral calculators, events with seats, Revolut Pay checkout |
 | [AstroLumina-AstrologyAPI](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-AstrologyAPI) | Chart engine API: natal / predictive / synastry computations, timezone resolution, translation catalogs, Prometheus metrics |
 | [AstroLumina-BookingAPI](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-BookingAPI) | Sessions & seats API: availability, Cal.com wiring, R2/D1 storage, booking emails |
-| [AstroLumina-PaymentAPI](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-PaymentAPI) | Stripe API: products, prices, checkout & payment intents |
+| [AstroLumina-PaymentAPI](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-PaymentAPI) | Revolut Pay API: order creation & payment tokens |
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat" alt="AWS"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Revolut_Pay-635BFF?style=flat&logo=revolut&logoColor=white" alt="Revolut Pay"/>
   <img src="https://img.shields.io/badge/Doppler-FF4F80?style=flat&logo=doppler&logoColor=white" alt="Doppler"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry"/>
