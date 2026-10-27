@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Terraform_Library-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Library"/>
   </a>
   <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-AWS">
-    <img src="https://img.shields.io/badge/AstroLumina_AWS-FF9900?style=for-the-badge" alt="AstroLumina AWS"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   </a>
   <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Ansible">
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
