@@ -92,6 +92,20 @@
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
+### 🛠️ Utils
+
+<p align="center">
+  <a href="https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Utils">
+    <img src="https://img.shields.io/badge/Utils-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Utils"/>
+  </a>
+</p>
+
+| Repository | What lives here |
+|---|---|
+| [AstroLumina-Utils](https://github.com/AstroLumina-Rise-n-Shine/AstroLumina-Utils) | Shared utilities: branch cleanup scripts, onboarding guides, Technology Stack wiki page |
+
+<hr style="border: 2px solid #30363d; border-radius: 5px;">
+
 ### 🛠️ Stack at a glance
 
 <p align="center">
